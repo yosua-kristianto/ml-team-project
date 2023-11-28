@@ -27,6 +27,4 @@ This project contains another implementation of the predictive default credit cl
 ## References
 [^1]: [KENTON, W. (2023, October 30). Credit Crisis: Meaning, Overview, Historical Example. Retrieved from Invenstopedia: https://www.investopedia.com/terms/c/credit-crisis.asp] (https://www.investopedia.com/terms/c/credit-crisis.asp)
 [^2]: Yeh, I.-C., & Lien, C.-h. (2009,). The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. Expert Systems with Applications, 2473-2480.
-
-## Dataset
 [^3]: [default of credit card clients](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
